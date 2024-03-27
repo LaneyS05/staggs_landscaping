@@ -7,4 +7,4 @@ def create_app():
     def index():
         return render_template('home.html') 
 
-    return app      
+    return app             
